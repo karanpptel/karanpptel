@@ -32,7 +32,7 @@ tests, and clean deploys.
 > Oversell-safe idempotent checkout, signature-verified de-duplicated webhooks, Vitest suite in CI.
 > `Next.js 15 · TypeScript · PostgreSQL/Prisma · Claude API · Stripe`
 
-**[SportBook — AI-Native Court Booking Platform](https://github.com/karanpptel/[SPORTBOOK-REPO])**
+**[SportBook — AI-Native Court Booking Platform](https://github.com/karanpptel/newsportbook)**
 · [Live demo]([SPORTBOOK-LIVE-URL])
 > Agentic **RAG support assistant** grounded in hybrid retrieval (pgvector + full-text, fused with
 > Reciprocal Rank Fusion) with server-side citation verification. Concurrency-safe booking agent
