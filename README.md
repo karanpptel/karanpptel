@@ -33,7 +33,7 @@ tests, and clean deploys.
 > `Next.js 15 · TypeScript · PostgreSQL/Prisma · Claude API · Stripe`
 
 **[SportBook — AI-Native Court Booking Platform](https://github.com/karanpptel/newsportbook)**
-· [Live demo]([SPORTBOOK-LIVE-URL])
+· [Live demo](https://sportbook-karanpatel.vercel.app/)
 > Agentic **RAG support assistant** grounded in hybrid retrieval (pgvector + full-text, fused with
 > Reciprocal Rank Fusion) with server-side citation verification. Concurrency-safe booking agent
 > (`SELECT … FOR UPDATE` + idempotency keys). Provider-agnostic LLM layer; 90+ Vitest tests.
