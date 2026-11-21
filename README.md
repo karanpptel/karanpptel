@@ -19,7 +19,7 @@ tests, and clean deploys.
 - 🌱 **Exploring:** agentic workflows, hybrid retrieval RAG, LLM evaluation
 - 🛠 **Ask me about:** Next.js App Router, LLM tool-use, Stripe webhooks, Postgres/pgvector
 - 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/karan-patel-5bb3b2206) ·
-  [Portfolio](https://portfolio-karanpatel.vercel.app) · patelkaran16102003@gmail.com
+  [Portfolio](https://portfolio-karanpatel.vercel.app) · hello@karanpatel.in
 
 ---
 
